@@ -1,14 +1,14 @@
 Package: com.deece.multiprofilechanger
 Name: MultiProfileChanger
-Version: 1.4.7
+Version: 1.5.3
 Architecture: iphoneos-arm64
-Description: Tweak quan ly profile Shopee rootless hoan thien - Fix ma Cell chuyen trang va setSpecifier an toan.
+Description: Tweak quan ly profile Shopee rootless hoan thien - Clear loi bien thua trong RootViewController.
 Maintainer: Deece
 Author: Deece
 Section: Tweaks
 Filename: debs/MultiProfileChanger.deb
-Size: 16518
-MD5sum: ffeb49fbc89d80b1a1f19a8491b1cd84
-SHA256: 415e208432f82ef03b38dfdd2e82b06be85b8b8b9827058bb5a6aeb0c9b2f75f
+Size: 19266
+MD5sum: 96da4746f3dae797eadc577d72e2558d
+SHA256: 5ee535caa4559f0c027c2a5fc23fe17a736df2399d1cf40346dd56b404a89a78
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
 Status: install ok unpacked
