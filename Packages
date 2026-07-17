@@ -1,14 +1,14 @@
 Package: com.deece.multiprofilechanger
 Name: MultiProfileChanger
-Version: 1.4.5
+Version: 1.4.6
 Architecture: iphoneos-arm64
-Description: Tweak quan ly profile Shopee rootless hoan thien quet app that dong bo giao dien mem mai.
+Description: Tweak quan ly profile Shopee rootless hoan chinh chuc nang dieu huong cam ung va quet app.
 Maintainer: Deece
 Author: Deece
 Section: Tweaks
 Filename: debs/MultiProfileChanger.deb
-Size: 16504
-MD5sum: f2ed54ac84549dd2a25159614941e9c0
-SHA256: 9156a40e899026cc54a7a547117adfe14722b96f64d104f7bc79250a55cd8414
+Size: 16454
+MD5sum: 93802bd824184373a77435c335e4c32c
+SHA256: 3a1f200e68f5680884e2ae9e12a4e91495032ddcf668561052cd0aba40943b25
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
 Status: install ok unpacked
