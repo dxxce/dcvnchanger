@@ -1,14 +1,14 @@
 Package: com.deece.multiprofilechanger
 Name: MultiProfileChanger
-Version: 1.2.8
+Version: 1.2.9
 Architecture: iphoneos-arm64
-Description: Tweak quan ly profile Shopee rootless hoan thien sua loi văng danh sach bang constructor runtime.
+Description: Tweak quan ly profile Shopee rootless hoan thien dứt điểm lỗi crash bang cach loai bo constructor.
 Maintainer: Deece
 Author: Deece
 Section: Tweaks
 Filename: debs/MultiProfileChanger.deb
-Size: 17266
-MD5sum: c1bed100a255235d772658cd0c5dd725
-SHA256: f124bc579215dd40f876f2a9d0f3093dd724f0bb711a1affec72a4ff2f585a22
+Size: 16956
+MD5sum: 81608e5e2c27e0ab87c1cc8887c364dc
+SHA256: 57b1758a531b8a8ea365c3d6a635371f9f42bf56e612a9f8416626180b9df11d
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
 Status: install ok unpacked
