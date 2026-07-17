@@ -1,0 +1,11 @@
+Package: com.deece.multiprofilechanger
+Name: MultiProfileChanger
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Description: Tweak thay đổi thông tin thiết bị và quản lý nhiều profile cho Shopee.
+Maintainer: Deece
+Author: Deece
+Section: Tweaks
+Filename: ./debs/MultiProfileChanger.deb
+Size: 7002
+MD5sum: 28c926231b16895759b2dfd0bb2f6cac
