@@ -1,14 +1,14 @@
 Package: com.deece.multiprofilechanger
 Name: MultiProfileChanger
-Version: 2.1.4
+Version: 2.1.7
 Architecture: iphoneos-arm64
 Description: Per-app profile cloning and spoofed device information for rootless iOS 15-17.
 Maintainer: Deece
 Author: Deece
 Section: Tweaks
 Filename: debs/MultiProfileChanger.deb
-Size: 21974
-MD5sum: dfad86a7da39907f7f757660a29b5472
-SHA256: 752eea85103afd701c3b922ee2cf375bd2632574e6212dd07aa3000f4d9d07c5
+Size: 23780
+MD5sum: 7f1bd4552dd748d99dc6469a8a8d4559
+SHA256: 5bfede096433d90f02a56fb245f0ae7a42769fcc3ad962cfad00a46d7f29d7fd
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
 Status: install ok unpacked
