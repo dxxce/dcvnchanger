@@ -1,14 +1,14 @@
 Package: com.deece.multiprofilechanger
 Name: MultiProfileChanger
-Version: 1.6.3
+Version: 1.7.2
 Architecture: iphoneos-arm64
-Description: Fix loi theos function definition o UIDevice. Hoan thien tuyet doi!
+Description: Fix loi reference ham respring o man hinh phu.
 Maintainer: Deece
 Author: Deece
 Section: Tweaks
 Filename: debs/MultiProfileChanger.deb
-Size: 22454
-MD5sum: fd20a972adb369816f52ea8ab69b5208
-SHA256: 82a5ef6596acb1b24fbc33768b209a7e24caaee268471ef376d4593ae88e1431
+Size: 20960
+MD5sum: 4d2e4b00b85469fc79cb62c399a1d73d
+SHA256: 361cf59ad0be1dc9cdcb29b80131db2b1a7e9707c79c45ecc2c209cb46deb9ff
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
 Status: install ok unpacked
