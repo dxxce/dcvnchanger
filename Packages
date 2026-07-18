@@ -1,14 +1,14 @@
 Package: com.deece.multiprofilechanger
 Name: MultiProfileChanger
-Version: 1.7.2
+Version: 2.0.3
 Architecture: iphoneos-arm64
-Description: Fix loi reference ham respring o man hinh phu.
+Description: Fix loi cu phap NSUTF8StringEncoding. Sandbox Bypass 100%.
 Maintainer: Deece
 Author: Deece
 Section: Tweaks
 Filename: debs/MultiProfileChanger.deb
-Size: 20960
-MD5sum: 4d2e4b00b85469fc79cb62c399a1d73d
-SHA256: 361cf59ad0be1dc9cdcb29b80131db2b1a7e9707c79c45ecc2c209cb46deb9ff
+Size: 20782
+MD5sum: c3bac7ae4f1eea8dc2af25fc119ffae6
+SHA256: 7cbb1d7e8306a0d06c5da0c9c85d0b6b71d2ae71c111bd8c611ffbaf77ecc82a
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
 Status: install ok unpacked
