@@ -1,14 +1,14 @@
 Package: com.deece.multiprofilechanger
 Name: MultiProfileChanger
-Version: 2.1.2
+Version: 2.1.3
 Architecture: iphoneos-arm64
 Description: Fix loi compiler iOS 15 cho UIWindow bang pragma clang.
 Maintainer: Deece
 Author: Deece
 Section: Tweaks
 Filename: debs/MultiProfileChanger.deb
-Size: 21598
-MD5sum: a6d4566282582edb3099450aa9acbc26
-SHA256: e817d812ef89b316ae5eabfe0b70fae29879f73090556096a1cda74df9a7b40e
+Size: 21846
+MD5sum: 6cc0f1ae35a138a0796275a615257525
+SHA256: 24953d92a3e918287ce8ee4db850bb767c2fb3afe6ba6d52356d5de84f3882a2
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
 Status: install ok unpacked
