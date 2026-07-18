@@ -1,14 +1,14 @@
 Package: com.deece.multiprofilechanger
 Name: MultiProfileChanger
-Version: 1.6.0
+Version: 1.6.3
 Architecture: iphoneos-arm64
-Description: Ban Cap Nhat Vang - Fix theos, dua Shopee len Top va Xoa Profile!
+Description: Fix loi theos function definition o UIDevice. Hoan thien tuyet doi!
 Maintainer: Deece
 Author: Deece
 Section: Tweaks
 Filename: debs/MultiProfileChanger.deb
-Size: 22276
-MD5sum: 06b65e98b25cca3a5c76b95794bee049
-SHA256: 167135f6141ef47f86985141bceb97fa37feae6f9cd578ee1b608bc25cbe5132
+Size: 22454
+MD5sum: fd20a972adb369816f52ea8ab69b5208
+SHA256: 82a5ef6596acb1b24fbc33768b209a7e24caaee268471ef376d4593ae88e1431
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
 Status: install ok unpacked
